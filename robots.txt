@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /p1/
+Disallow: /tt/
+Disallow: /t2/
+
+Sitemap: https://texts.uncleleaf.cc/sitemap.xml
